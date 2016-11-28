@@ -1,5 +1,5 @@
 Laws of PLEN
-============
+===============================================================================
 
 ## English
 You could use PLEN for every imaginable things, but, in that case, please observe the following laws strictly.

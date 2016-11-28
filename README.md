@@ -1,15 +1,12 @@
-PLEN Project Company Inc. - 3DModel for Fusion360
-================================================================================
-Copyright (c) 2016
----
-- [Kazuki TACHIKAWA](https://github.com/KazukiTachikawa)
+3D Model for Fusion 360 | PLEN Project Company Inc.
+===============================================================================
+
+## Copyright (c) 2016,
 - [PLEN Project Company Inc.](https://plen.jp)
 
-Build enviroment
----
+## Build Environment
 - Windows 7
-- Fusion360 2.0.2016
+- Fusion 360 2.0.2016
 
-License
----
-This material is released under the Creative Commons BY 4.0
+## License
+This material is released under the [Creative Commons BY 4.0](http://creativecommons.org/licenses/by/4.0/).
