@@ -3,6 +3,9 @@
 
 ## Copyright (c) 2016,
 - [PLEN Project Company Inc.](https://plen.jp)
+- Takuya KAMURA
+- Naohiro HAYAISHI
+- Naoki IWAMARU
 
 ## Build Environment
 - Windows 7
