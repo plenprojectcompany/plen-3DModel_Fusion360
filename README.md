@@ -3,11 +3,11 @@
 
 PLEN 3D Model
 - ***.stl**: For 3D printing
-- ***.f3d** or ***.f3z**: Editable file for Fusion 360
+- ***.f3d**: Editable file for Fusion 360
 
 ## How to import for Fusion360
 1. Click the "Upload" button on the upper left of the Fusion360
-2. Select file [*.f3d or *.f3z]
+2. Select file [*.f3d]
 
 ## Description of the Directory
 - `/f3d`: for PLNE2
