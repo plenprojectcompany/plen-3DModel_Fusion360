@@ -2,8 +2,8 @@
 ===============================================================================
 
 PLEN 3D Model
-- *.stl: For 3D printing
-- *.f3d or *f3z: Editable file for Fusion 360
+- ***.stl**: For 3D printing
+- ***.f3d** or ***.f3z**: Editable file for Fusion 360
 
 ## How to import for Fusion360
 1. Click the "Upload" button on the upper left of the Fusion360
@@ -23,6 +23,10 @@ PLEN 3D Model
 - Takuya KAMURA
 - Naohiro HAYAISHI
 - Naoki IWAMARU
+- Kei KOJIMA
+- [okizono](https://github.com/okizono)
+- [miya](https://github.com/hkr352)
+- [sousci](https://github.com/sousci)
 
 ## Build Environment
 - Windows 7, Windows10
