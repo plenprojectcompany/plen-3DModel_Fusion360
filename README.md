@@ -18,6 +18,55 @@ PLEN 3D Model
 - `/stl-bit`: for PLEN:bit
 - `/stl-mini`: for PLEN2mini
 
+## PLEN:bit Component
+- `/stl`
+    - `head.stl`
+    - `chin.stl`
+    - `body_middle.stl`
+    - `body_rear.stl`
+    - `servo_bracket.stl`
+    - `servo_bracket_mirror.stl`
+    - `servo_horn.stl`
+    - `foot.stl`
+    - `foot_mirror.stl`
+    - `servo_bracket_ankle_1.stl`
+    - `servo_bracket_ankle_1_mirror.stl`
+    - `servo_bracket_ankle_2.stl`
+    - `servo_bracket_ankle_2_mirror.stl`
+- `/stl-bit`
+    - `bit_body_front.stl`
+    - `bit_hand_left.stl`
+    - `bit_hand_right.stl`
+    - `bit_leg.stl`
+    - `bit_power_switch_holder.stl`
+    - `bit_servo_fixer_with_stoper.stl`
+
+## PLEN5Stack Component
+- `/stl`
+    - `head.stl`
+    - `chin.stl`
+    - `body_middle.stl`
+    - `body_rear.stl`
+    - `power_switch_holder.stl`
+    - `servo_bracket.stl`
+    - `servo_bracket_mirror.stl`
+    - `servo_horn.stl`
+    - `foot.stl`
+    - `foot_mirror.stl`
+    - `servo_bracket_ankle_1.stl`
+    - `servo_bracket_ankle_1_mirror.stl`
+    - `servo_bracket_ankle_2.stl`
+    - `servo_bracket_ankle_2_mirror.stl`
+- `/stl-bit`
+    - `bit_leg.stl`
+    - `bit_servo_fixer_with_stoper.stl`
+- `/stl-5stack`
+    - `5stack_LED_spacer_8-9.5.stl`
+    - `5stack_block_arm.stl`
+    - `5stack_block_hand.stl`
+
+***PLEN5Stack body_front is private.**
+
 ## Copyright (c) 2016-2020,
 - [PLEN Project Company Inc.](https://plen.jp)
 - Takuya KAMURA
